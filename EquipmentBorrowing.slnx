@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="README.md" />
+    <File Path="docs/database-queries.sql" />
+    <File Path="docs/database-diagram.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/EquipmentBorrowing.Domain/EquipmentBorrowing.Domain.csproj" />
+    <Project Path="src/EquipmentBorrowing.Application/EquipmentBorrowing.Application.csproj" />
+    <Project Path="src/EquipmentBorrowing.Infrastructure/EquipmentBorrowing.Infrastructure.csproj" />
+    <Project Path="src/EquipmentBorrowing.Desktop/EquipmentBorrowing.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EquipmentBorrowing.Tests/EquipmentBorrowing.Tests.csproj" />
+  </Folder>
+</Solution>
